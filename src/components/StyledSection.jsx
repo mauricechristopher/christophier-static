@@ -10,7 +10,7 @@ export const StyledStaticSection = styled.section`
     display: flex;
     align-items: center;
     justify-content: center;
-    background: beige;
+    background: #FFF8F0;
     text-shadow: 0 0 5px #000;
     box-shadow: 0 5px 20px black, 0 -5px 20px black;
 `

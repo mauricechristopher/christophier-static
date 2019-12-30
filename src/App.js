@@ -11,7 +11,7 @@ const App = () => (
         <Wrapper>
 
             <ParallaxSection pic='https://i.ibb.co/M5CBFb8/entrance.jpg'>
-              <h1>Christophier</h1>
+              
             </ParallaxSection>
 
             <StaticSection />

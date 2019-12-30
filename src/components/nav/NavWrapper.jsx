@@ -5,12 +5,12 @@ const NavWrapper = styled.nav`
     top: 0;
     left: 0;
     height: 125px;
-    background-color: white;
+    background-color: #FFF8F0;
     box-shadow: 0 5px 20px black;
     position: sticky;
     z-index: 99;
     display: flex;
-    align-items: center;
+    /* align-items: middle; */
     justify-content: center;
 `
 

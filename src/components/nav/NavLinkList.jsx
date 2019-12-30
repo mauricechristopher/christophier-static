@@ -5,6 +5,7 @@ const NavLinkList = styled.ul`
     list-style: none;
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 100%;
 `
 
