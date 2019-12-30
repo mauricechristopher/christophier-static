@@ -2,7 +2,12 @@ import styled from 'styled-components';
 
 const NavLink = styled.a`
     position: relative;
-    color: #7A0039;
+
+    /* SEE DADS OPINION */
+    /* color: #7A0039; */
+    color: #FFF8F0;
+
+
     font-family: 'Raleway', sans-serif;
     letter-spacing: 1px;
     font-weight: 700;

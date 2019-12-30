@@ -1,7 +1,7 @@
 import React from 'react';
-import Wrapper from './components/Wrapper';
-import ParallaxSection from './components/ParallaxSection';
-import StaticSection from './components/StaticSection';
+import Wrapper from './components/parallax/Wrapper';
+import ParallaxSection from './components/parallax/ParallaxSection';
+import StaticSection from './components/parallax/StaticSection';
 import NavBar from './components/nav'
 
 const App = () => (
@@ -11,7 +11,7 @@ const App = () => (
         <Wrapper>
 
             <ParallaxSection pic='https://i.ibb.co/M5CBFb8/entrance.jpg'>
-              
+
             </ParallaxSection>
 
             <StaticSection />

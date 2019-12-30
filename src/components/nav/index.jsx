@@ -68,7 +68,7 @@ const NavBar = (props) => {
 
             </NavLinkList>
 
-            <Logo src='https://i.ibb.co/HdvRb36/mmc-horizontal-logo-burgundy.png' />
+            <Logo src='https://i.ibb.co/tp4VTtP/mmc-horizontal-logo.png' />
 
             <NavLinkList>
                 <NavLinkListItem>
