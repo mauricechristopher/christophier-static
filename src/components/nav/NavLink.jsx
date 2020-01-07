@@ -3,9 +3,9 @@ import styled from 'styled-components';
 const NavLink = styled.a`
     position: relative;
 
-    /* SEE DADS OPINION */
-    /* color: #7A0039; */
-    color: #FFF8F0;
+    /* THEME */
+    color: #7A0039;
+    /* color: #FFF8F0; */
 
 
     font-family: 'Raleway', sans-serif;
@@ -29,6 +29,7 @@ const NavLink = styled.a`
         -webkit-transition: all 0.35s ease;
         transition: all 0.35s ease;
         background-color: #C8D6AF;
+        /* background-color: white; */
         width: ${props => props.isActive ? '100%' : '0'};
     }
 

@@ -2,9 +2,9 @@ import styled from 'styled-components';
 
 const NavWrapper = styled.nav`
 
-    /* SEE DADS OPINION */
-    /* background-color: #FFF8F0; */
-    background-color: #7A0039;
+    /* THEME */
+    background-color: #FFF8F0;
+    /* background-color: #7A0039; */
 
 
     width: 100%;
@@ -15,7 +15,6 @@ const NavWrapper = styled.nav`
     position: sticky;
     z-index: 99;
     display: flex;
-    /* align-items: middle; */
     justify-content: center;
 `
 

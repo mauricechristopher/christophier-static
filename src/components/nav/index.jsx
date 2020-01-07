@@ -50,6 +50,8 @@ const NavBar = (props) => {
     //         pos: false
     //     }
     // ]
+    // <Logo src='https://i.ibb.co/tp4VTtP/mmc-horizontal-logo.png' />
+
     return (
         <NavWrapper>
             <NavLinkList>
@@ -68,7 +70,7 @@ const NavBar = (props) => {
 
             </NavLinkList>
 
-            <Logo src='https://i.ibb.co/tp4VTtP/mmc-horizontal-logo.png' />
+            <Logo src='https://i.ibb.co/HdvRb36/mmc-horizontal-logo-burgundy.png' />
 
             <NavLinkList>
                 <NavLinkListItem>
